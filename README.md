@@ -40,7 +40,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 [2]: https://www.linkedin.com/in/ticiano-mensegue/
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ticianomen.ticianomen)
 
 
 ![Ticiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=ticianomen&show_icons=true)
