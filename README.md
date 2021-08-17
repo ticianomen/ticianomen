@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg "Header")](https://some-url.dev/)
-https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif
 
-<img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="30px">
+
+<img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" >
 Hi! I'm a Full-Stack Web Developer, better at Back-End but open to improve my Front-End as well. I love to create, build, be a part of new things!
 
 
