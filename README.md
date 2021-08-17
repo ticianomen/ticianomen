@@ -1,4 +1,11 @@
+[![Header](https://raw.githubusercontent.com/ticianomen/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+
 Hi! I'm a Full-Stack Web Developer, better at Back-End but open to improve my Front-End as well. I love to create, build, be a part of new things!
+
+
+Skills:
+
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
