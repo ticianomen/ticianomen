@@ -18,7 +18,6 @@ Skills:
   <img src='./img/skills/nodejs.png' width='30' height='30' aling='center'>
   <img src='./img/skills/postgresql.png' width='30' height='30' aling='center'>
   <img src='./img/skills/python.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/react.png' width='30' height='30' aling='center'>
   <img src='./img/skills/redux.png' width='30' height='30' aling='center'>
   <img src='./img/skills/sequelize.png' width='30' height='30' aling='center'>
   <img src='./img/skills/sqlite.png' width='30' height='30' aling='center'>
@@ -27,6 +26,19 @@ Skills:
   <img src='./img/skills/css.png' width='30' height='30' aling='center'>
   <img src='./img/skills/chai.png' width='30' height='30' aling='center'>
 </p>
+
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/ticiano-mensegue/
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
