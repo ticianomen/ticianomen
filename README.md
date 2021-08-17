@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg "Header" width=500px)](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg "Header")](https://some-url.dev/)
 
 Hi! I'm a Full-Stack Web Developer, better at Back-End but open to improve my Front-End as well. I love to create, build, be a part of new things!
 
