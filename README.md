@@ -9,8 +9,24 @@ I love to create is the best way to define me, I always persuit knowledge, alway
 
 
 Skills:
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<p aling='center'>
+  <img src='./img/skills/react.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/html5.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/jasmine.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/javascript.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/mocha.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/nodejs.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/postgresql.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/python.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/react.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/redux.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/sequelize.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/sqlite.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/webpack.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/express.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/css.png' width='30' height='30' aling='center'>
+  <img src='./img/skills/chai.png' width='30' height='30' aling='center'>
+</p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
