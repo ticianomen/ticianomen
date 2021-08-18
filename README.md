@@ -48,4 +48,7 @@ You can find me on [![LinkedIn][2.2]][2].
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticianomen&theme=<THEME_NAME>" />
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
