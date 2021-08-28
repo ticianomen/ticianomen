@@ -1,15 +1,11 @@
 
 [![Header](https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif "Header")](https://some-url.dev/)
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ticianomen&label=Profile%20views&color=0e75b6&style=flat" alt="ticianomen" /> </p>
 <img src="https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg" width=300px>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Now that I have your attention let me introduce myself,
-
- <h1> Mi name is Ticiano Mensegue, from Argentina, </h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ticianomen&label=Profile%20views&color=0e75b6&style=flat" alt="ticianomen" /> </p>
+ <h1> My name is Ticiano Mensegue </h1>
 
 <h3 align="center">A passionate enthusiast for developing technologies</h3>
 <p>My love to create is the best way to define me, I always persuit knowledge, always learning new things, I love cooking as much as I love technologies, always geting informed about what's new, what's coming and what's becoming obsolete. Recently I got the opportunity to unite all of that when i decided to learn programing and found my place in this world. Now i can say that I'm a Full-Stack Web Developer, better at Front-End but open to improve my Back-End as well. Every day is a new chance to learn and grow and I love that about Programing, also I'm great working with others, and recently found out that I also like teaching others. </p>
