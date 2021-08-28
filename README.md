@@ -1,6 +1,5 @@
 
-[![Header]
-(https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif "Header")](https://some-url.dev/)
+[![Header](https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif "Header")](https://some-url.dev/)
 
 
 
