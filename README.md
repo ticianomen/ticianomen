@@ -1,6 +1,6 @@
 
 [![Header](https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif "Header")](https://some-url.dev/)
-<img src="https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg" height=300px>
+<img src="https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg" height=280px>
 
 Now that I have your attention let me introduce myself,
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
