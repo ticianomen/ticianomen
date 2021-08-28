@@ -1,3 +1,7 @@
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ticianomen&label=Profile%20views&color=0e75b6&style=flat" alt="ticianomen" /> </p>
 [![Header](https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif "Header")](https://some-url.dev/)
 
 <img src="https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg" width=300px>
@@ -11,12 +15,7 @@ Now that I have your attention let me introduce myself,
 <p>My love to create is the best way to define me, I always persuit knowledge, always learning new things, I love cooking as much as I love technologies, always geting informed about what's new, what's coming and what's becoming obsolete. Recently I got the opportunity to unite all of that when i decided to learn programing and found my place in this world. Now i can say that I'm a Full-Stack Web Developer, better at Front-End but open to improve my Back-End as well. Every day is a new chance to learn and grow and I love that about Programing, also I'm great working with others, and recently found out that I also like teaching others. </p>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ticianomen&label=Profile%20views&color=0e75b6&style=flat" alt="ticianomen" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ticianomen" alt="ticianomen" /></a> </p>
-
-- 🔭 I’m currently working on **MIST StartUp**
+- 🔭 I’m currently working on a project for **MIST StartUp**
 
 - 🌱 I’m currently learning **Typescript and React Native**
 
@@ -24,9 +23,9 @@ Now that I have your attention let me introduce myself,
 
 - 📫 How to reach me **ticianomensegue@gmail.com**
 
-- 📄 <a ref="https://drive.google.com/file/d/1cCOZbsg3uvwCDTFSq8r_fbK6mNimguy_/view?usp=sharing" Know about my experiences/> 
+- 📄 <a ref="https://drive.google.com/file/d/1cCOZbsg3uvwCDTFSq8r_fbK6mNimguy_/view?usp=sharing"> Know about my experiences</a> 
 
-- ⚡ Fun fact **I'm also a Master Chef**
+- ⚡ Fun fact, **I'm also a Master Chef**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
