@@ -2,7 +2,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ticianomen&label=Profile%20views&color=0e75b6&style=flat" alt="ticianomen" /> </p>
-[![Header](https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif "Header")](https://some-url.dev/)
+[![Header]
+(https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif "Header")](https://some-url.dev/)
 
 <img src="https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg" width=300px>
 
