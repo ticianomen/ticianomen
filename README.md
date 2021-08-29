@@ -31,16 +31,15 @@ Now that I have your attention let me introduce myself,
  <div>
 <p>&nbsp;<img align="letf" src="https://github-readme-stats.vercel.app/api?username=ticianomen&show_icons=true&locale=en" alt="ticianomen" /></p>
     </div>
- <div display="flex" flexDirection="column">
+ <div styles={{display:"flex", flexDirection="column"}}>
   <div>
   <h3 align="left">Connect with me:</h3>
-<p align="left">
 
 <a href="https://twitter.com/ticianomense" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ticianomense" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ticiano-mensegue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ticiano-mensegue" height="30" width="40" /></a>
 <a href="https://fb.com/ticianomensegue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ticianomensegue" height="30" width="40" /></a>
 <a href="https://instagram.com/ticianomense" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ticianomense" height="30" width="40" /></a>
-</p>
+
   </div>
   <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ticianomen&show_icons=true&locale=en&layout=compact" alt="ticianomen" />
