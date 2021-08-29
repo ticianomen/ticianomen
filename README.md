@@ -43,7 +43,7 @@ Now that I have your attention let me introduce myself,
 
 <div style={{ flexGrow: 0, flexBasis: '100%', }} > 
   <img width='50%' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ticianomen&show_icons=true&locale=en&layout=compact" alt="ticianomen" />
-  <p width='50%'>&nbsp;<img width='50%' align="right" src="https://github-readme-stats.vercel.app/api?username=ticianomen&show_icons=true&locale=en" alt="ticianomen" /></p>
+  <img width='50%' align="right" src="https://github-readme-stats.vercel.app/api?username=ticianomen&show_icons=true&locale=en" alt="ticianomen" />
 </div>
 
 
