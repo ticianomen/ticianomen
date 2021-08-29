@@ -43,10 +43,9 @@ Now that I have your attention let me introduce myself,
            <a href="https://instagram.com/ticianomense" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ticianomense" height="30" width="40" /></a>
          </p>
        
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ticianomen&show_icons=true&locale=en&layout=compact" alt="ticianomen" /></p>
     </div>
   
-    <img align="letf" src="https://github-readme-stats.vercel.app/api?username=ticianomen&show_icons=true&locale=en" alt="ticianomen" />
-
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ticianomen&show_icons=true&locale=en&layout=compact" alt="ticianomen" />
  </div>
 
