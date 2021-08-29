@@ -18,6 +18,8 @@ Now that I have your attention let me introduce myself,
 <a href="https://instagram.com/ticianomense" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ticianomense" height="30" width="40" /></a>
 </p>
 
+<p></p>
+
 - 🔭 I’m currently working on a project for **MIST StartUp**
 
 - 🌱 I’m currently learning **Typescript and React Native**
