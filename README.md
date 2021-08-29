@@ -30,8 +30,7 @@ Now that I have your attention let me introduce myself,
 
 <div align="left">
    <img align="letf" src="https://github-readme-stats.vercel.app/api?username=ticianomen&show_icons=true&locale=en" alt="ticianomen" />
-</div>
-<div align="rigth">
+
   <h3 align="left">Connect with me:</h3>
   <a href="https://twitter.com/ticianomense" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ticianomense" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ticiano-mensegue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ticiano-mensegue" height="30" width="40" /></a>
