@@ -8,10 +8,10 @@ Now that I have your attention let me introduce myself,
  <h1># Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Ticiano </h1>
 
 <h3 align="left">A passionate enthusiast for developing technologies</h3>
-<p>My love to create is the best way to define me, I always persuit knowledge, always learning new things, I love cooking as much as I love technologies, always geting informed about what's new, what's coming and what's becoming obsolete. <br>
- Recently I got the opportunity to unite all of that when I decided to learn programing and found my place in this world. <br>
- Now I can say that I'm a Full-Stack Web Developer, better at Front-End but open to improve my Back-End as well. <br>
- Every day is a new chance to learn and grow and I love that about Programing, also I'm great working with others, and recently found out that I also like teaching others. </p>
+<p>My love to create is the best way to define me, I always persuit knowledge, always learning new things, I love cooking as much as I love technologies, always geting informed about what's new, what's coming and what's becoming obsolete. </p>
+<p>Recently I got the opportunity to unite all of that when I decided to learn programing and found my place in this world. </p>
+<p>Now I can say that I'm a Full-Stack Web Developer, better at Front-End but open to improve my Back-End as well. </p>
+<p>Every day is a new chance to learn and grow and I love that about Programing, also I'm great working with others, and recently found out that I also like teaching others. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
