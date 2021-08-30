@@ -32,7 +32,7 @@ Now that I have your attention let me introduce myself,
 
 - 📫 How to reach me **ticianomensegue@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1cCOZbsg3uvwCDTFSq8r_fbK6mNimguy_/view?usp=sharing"> Know about my experiences</a> 
+- 📄 <a href="https://drive.google.com/file/d/1cCOZbsg3uvwCDTFSq8r_fbK6mNimguy_/view?usp=sharing"> Know about my experiences with: My Resume</a> 
 
 - ⚡ Fun fact, **I'm also a Master Chef**
          <br>
