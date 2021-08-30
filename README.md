@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **ticianomensegue@gmail.com**
 
-- 📄  Know about my experiences with: <a href="https://drive.google.com/file/d/1z0zgK0OxYBjjzhEV6FyoNtsxQ2H7UVqI/view?usp=sharing">My Resume</a> 
+- 📄  Know about my experiences with: <a href="https://drive.google.com/file/d/1DVLU8yWWO4p_M32kjbQN0SbjSpatSBDC/view?usp=sharing">My Resume</a> 
 
 - ⚡ Fun fact, **I'm also a Master Chef**
 <img src="https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg" height=280px>
