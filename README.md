@@ -1,8 +1,6 @@
 
 [![Header](https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif "Header")](https://some-url.dev/)
-<img src="https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg" height=280px>
 
-Now that I have your attention let me introduce myself,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ticianomen&label=Profile%20views&color=0e75b6&style=flat" alt="ticianomen" /> </p>
  <h1># Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Ticiano </h1>
@@ -20,7 +18,6 @@ Now that I have your attention let me introduce myself,
            <a href="https://twitter.com/ticianomense" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ticianomense" height="30" width="40" /></a>
            <a href="https://linkedin.com/in/ticiano-mensegue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ticiano-mensegue" height="30" width="40" /></a>
            <a href="https://fb.com/ticianomensegue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ticianomensegue" height="30" width="40" /></a>
-           <a href="https://instagram.com/ticianomense" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ticianomense" height="30" width="40" /></a>
          </p>
          <br>
 
@@ -35,6 +32,8 @@ Now that I have your attention let me introduce myself,
 - 📄  Know about my experiences with: <a href="https://drive.google.com/file/d/1z0zgK0OxYBjjzhEV6FyoNtsxQ2H7UVqI/view?usp=sharing">My Resume</a> 
 
 - ⚡ Fun fact, **I'm also a Master Chef**
+- 
+<img src="https://raw.githubusercontent.com/ticianomen/ticianomen/main/burger.jpg" height=280px>
          <br>
          <br>
 
