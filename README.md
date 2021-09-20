@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Typescript and React Native**
 
-- 💬 Ask me about **React, Node, Redux**
+- 💬 Check me out at <a href="https://ticianomensegue.com.ar/">My Portfolio</a>
 
 - 📫 How to reach me **ticianomensegue@gmail.com**
 
